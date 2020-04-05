@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 
+//John Konstantinou
+//Student ID: 103043778
+//Algorithms Task
+
 namespace Algorithms
 {
     class Program
@@ -14,15 +18,15 @@ namespace Algorithms
         {
             List<int> arr = new List<int>();
             int[] searchNum = { 575154, 182339, 17132, 773788, 296934, 991395, 303270, 45231, 580, 629822 };
-            
+
             Menu(arr, searchNum);
         }
 
         public static void Menu(List<int> arr, int[] searchNum)
         {
-            
+
             int choice = 0;
-            
+
 
             while (choice != 8)
             {
