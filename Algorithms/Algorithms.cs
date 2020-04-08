@@ -8,6 +8,32 @@ namespace Algorithms
 {
     class Algorithms
     {
+        public static void AnalysisLinear(List<int> arr, int[] searchNum, Stopwatch stop, ref int count)
+        {
+            for (int i = 0; i < 1; i++)
+            {
+                stop.Start();
+                foreach (int num in searchNum)
+                {
+                    LinearSearch(arr, num, ref count);
+                }
+                stop.Stop();
+            }
+        }
+
+        public static void AnalysisBinary(List<int> arr, int[] searchNum, Stopwatch stop, ref int count)
+        {
+            for (int i = 0; i < 1; i++)
+            {
+                stop.Start();
+                foreach (int num in searchNum)
+                {
+                    BinarySearch(arr, 0, arr.Count - 1, num, ref count);
+                }
+                stop.Stop();
+            }
+        }
+
         public static int BinarySearch(List<int> arr, int lower, int upper, int element, ref int count)
         {
             count++;

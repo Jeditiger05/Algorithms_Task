@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Projects\\Algorithms_Task\\Algorithms\\Algorithms.csproj": {}
+    "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Projects\\Algorithms_Task\\Algorithms\\Algorithms.csproj": {
+    "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Projects\\Algorithms_Task\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\Algorithms.csproj",
         "projectName": "Algorithms",
-        "projectPath": "C:\\Users\\John\\Projects\\Algorithms_Task\\Algorithms\\Algorithms.csproj",
+        "projectPath": "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\Algorithms.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Projects\\Algorithms_Task\\Algorithms\\obj\\",
+        "outputPath": "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

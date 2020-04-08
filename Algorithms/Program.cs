@@ -7,8 +7,8 @@ namespace Algorithms
 {
     class Program
     {
-        private static Stopwatch stopwatch = new Stopwatch();
-        private static int count = 0;
+        private static Stopwatch stopwatch;
+        private static int count;
 
         static void Main(string[] args)
         {
@@ -54,6 +54,7 @@ namespace Algorithms
                         Console.WriteLine("\nShel Sort Looped: " + count + " times\n");
                         break;
                     case 4:
+                        count = 0;
                         Algorithms.InsertionSort(arr, ref count);
                         Console.WriteLine("\nInsertion Sorted Array Elements :");
                         DisplayArray(arr);
@@ -67,13 +68,14 @@ namespace Algorithms
                         break;
                     case 7:
                         count = 0;
-                        SearchAnalysis.AnalysisLinear(arr, searchNum, stopwatch, ref count);
+                        stopwatch = new Stopwatch();
+                        Algorithms.AnalysisLinear(arr, searchNum, stopwatch, ref count);
                         Console.WriteLine("\nLinear Search");
                         Console.WriteLine($"Looped {count} Times");
                         Console.WriteLine($"Elapsed Time is {stopwatch.Elapsed}\n");
                         stopwatch = new Stopwatch();
                         count = 0;
-                        SearchAnalysis.AnalysisBinary(arr, searchNum, stopwatch, ref count);
+                        Algorithms.AnalysisBinary(arr, searchNum, stopwatch, ref count);
                         Console.WriteLine("Binary Search");
                         Console.WriteLine($"Looped {count} Times");
                         Console.WriteLine($"Elapsed Time is {stopwatch.Elapsed}");
@@ -89,7 +91,8 @@ namespace Algorithms
         {
             try
             {
-                StreamReader reader = new StreamReader(Directory.GetCurrentDirectory() + "\\unsorted_numbers.csv");
+                StreamReader reader = new StreamReader("unsorted_numbers.csv");
+                //StreamReader reader = new StreamReader(Directory.GetCurrentDirectory() + "\\unsorted_numbers.csv");
 
                 while (!reader.EndOfStream)
                 {
