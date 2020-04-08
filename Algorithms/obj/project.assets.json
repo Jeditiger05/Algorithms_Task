@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "D:\\Algorithms_Task\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\Algorithms.csproj",
+      "projectPath": "D:\\Algorithms_Task\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\OneDrive\\Swinburne 2020\\Anhs Class\\Week 5\\Algorithms\\Algorithms\\obj\\",
+      "outputPath": "D:\\Algorithms_Task\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

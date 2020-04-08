@@ -26,3 +26,18 @@ C:\Users\John\OneDrive\Swinburne 2020\Anhs Class\Week 5\Algorithms\Algorithms\ob
 C:\Users\John\OneDrive\Swinburne 2020\Anhs Class\Week 5\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
 C:\Users\John\OneDrive\Swinburne 2020\Anhs Class\Week 5\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
 C:\Users\John\OneDrive\Swinburne 2020\Anhs Class\Week 5\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
+D:\Algorithms_Task\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+D:\Algorithms_Task\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+D:\Algorithms_Task\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+D:\Algorithms_Task\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+D:\Algorithms_Task\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+D:\Algorithms_Task\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csprojAssemblyReference.cache
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.Properties.Resources.resources
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.GenerateResource.cache
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
+D:\Algorithms_Task\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
